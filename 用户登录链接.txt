@@ -1,0 +1,3 @@
+管理员登录：http://localhost:8080/ctest/admin_alogin.action
+教师登录：http://localhost:8080/ctest/teacher_tlogin.action
+学生登录：http://localhost:8080/ctest/student_slogin.action
